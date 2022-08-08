@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zhiwei</h1>
 <h3 align="center">Student at National University of Singapore</h3>
 
-- 🌱 I’m currently learning Web Development
+<div align="center">
+🌱 I’m currently learning Web Development
 
-- 📫 How to reach me: **zhiwei_lin@u.nus.edu**
+📫 How to reach me: **zhiwei_lin@u.nus.edu**
 
 <p  ><img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
@@ -25,3 +26,4 @@
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+</div>
