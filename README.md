@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Web Development
 
-- 📫 How to reach me: **zhiwei_lin@u.nus.com**
+- 📫 How to reach me: **zhiwei_lin@u.nus.edu**
 
 <p  ><img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
