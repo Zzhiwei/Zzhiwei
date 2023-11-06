@@ -2,7 +2,6 @@
 <h3 align="center">Student at National University of Singapore</h3>
 
 <div align="center">
-🌱 I’m currently learning Web Development
 
 📫 How to reach me: **zhiwei_lin@u.nus.edu**
 
