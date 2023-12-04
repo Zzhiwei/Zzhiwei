@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zhiwei</h1>
-<h3 align="center">Student at National University of Singapore</h3>
+<h3 align="center">Final Year Student at National University of Singapore</h3>
 
 <div align="center">
 
@@ -13,17 +13,6 @@
 </p>
 
 
-
-
-
-<p  ><img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zzhiwei&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
-
-<br>
 
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Zzhiwei&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
